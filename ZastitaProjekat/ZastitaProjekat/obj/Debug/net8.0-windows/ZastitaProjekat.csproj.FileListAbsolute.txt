@@ -1,0 +1,42 @@
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.exe
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.deps.json
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.runtimeconfig.json
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.pdb
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.AssemblyInfoInputs.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.AssemblyInfo.cs
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.csproj.CoreCompileInputs.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\refint\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.pdb
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.genruntimeconfig.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ref\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.exe
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.deps.json
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.runtimeconfig.json
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.pdb
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.AssemblyInfoInputs.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.AssemblyInfo.cs
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.csproj.CoreCompileInputs.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\refint\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.pdb
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.genruntimeconfig.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\SA KOMENTARIMA\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ref\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.exe
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.deps.json
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.runtimeconfig.json
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\bin\Debug\net8.0-windows\ZastitaProjekat.pdb
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.AssemblyInfoInputs.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.AssemblyInfo.cs
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.csproj.CoreCompileInputs.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\refint\ZastitaProjekat.dll
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.pdb
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ZastitaProjekat.genruntimeconfig.cache
+D:\Za FAKS\4. godina\7. SEMESTAR\Zaštita informacija\Projekat sa komentarima\ZastitaProjekat\ZastitaProjekat\obj\Debug\net8.0-windows\ref\ZastitaProjekat.dll
