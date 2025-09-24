@@ -1,0 +1,60 @@
+# === Visual Studio / .NET ===
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.vcxproj.user
+*.svclog
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+
+# Test & coverage
+[Tt]est[Rr]esults/
+*.coverage
+*.coveragexml
+*.opencover.xml
+
+# NuGet
+*.nupkg
+*.snupkg
+# If you use packages/ folder (packages.config), keep build props/targets but ignore the rest
+packages/*
+!packages/build/
+!packages/repositories.config
+.nuget/
+*.nuget.props
+*.nuget.targets
+
+# Publishing / artifacts
+artifacts/
+**/publish/
+*.Publish.xml
+*.pubxml.user
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Logs & caches
+*.log
+*.etl
+*.cache
+*.db-shm
+*.db-wal
+
+# VS Code (keep settings if you want; ignore by default)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
